@@ -1,8 +1,0 @@
-interface:
-  display_name: "写作工坊"
-  short_description: "构思、起草、改写并审校中文内容"
-  brand_color: "#0F766E"
-  default_prompt: "使用 $writing-craft，根据任务复杂度先确认我的写作需求和使用场景，再给出写作判断。"
-
-policy:
-  allow_implicit_invocation: true
