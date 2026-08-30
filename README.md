@@ -27,7 +27,7 @@
 克隆仓库后，进入 skill 目录：
 
 ```text
-git clone https://github.com/zhangjiaqi-wed/write-writing.git
+git clone https://github.com/xiao-shuran/write-writing.git
 cd write-writing/writing-craft
 ```
 
